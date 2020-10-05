@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<MSTest>
+		<Paraleelize>
+			<Worker>5</Worker>
+			<Scope>MethodLevel</Scope>
+		</Paraleelize>
+	</MSTest>
+</RunSettings>
