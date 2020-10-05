@@ -70,7 +70,15 @@ namespace Page_Object_Model_1
             loginpage.login("http://adactinhotelapp.com", "AmirTester", "AmirTester");
 
         }
-       
+
+        [TestMethod]
+        public void TestCase_003()
+        {
+
+            loginpage.login("http://adactinhotelapp.com", "AmirTester", "AmirTester");
+
+        }
+
 
     }
 }
